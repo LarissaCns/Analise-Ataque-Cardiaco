@@ -24,8 +24,8 @@ Este projeto realiza uma Análise Exploratória de Dados (EDA) detalhada sobre u
 * **A (Falta de) Influência Isolada do Colesterol:** O cruzamento estatístico e visual (Boxplot) revelou uma correlação praticamente nula (-0.09) entre os níveis de colesterol sérico e o risco de infarto. As medianas e a distribuição interquartil foram visualmente sobreponíveis entre os grupos de maior e menor risco, indicando que o colesterol, isoladamente, não foi um preditor linear forte para esta amostra clínica.
 
 ## 📂 Estrutura do Repositório
-* `analise.ipynb`: Código completo contendo a etapa de formatação, agrupamentos e geração de todos os gráficos.
-* `heart.csv`: Base de dados original (raw data) utilizada para a análise.
+* `analise-ataques-cardiacos.ipynb`: Código completo contendo a etapa de formatação, agrupamentos e geração de todos os gráficos.
+* `Heart Attack Data Set.csv`: Base de dados original (raw data) utilizada para a análise.
 
 ---
 *Desenvolvido como projeto prático de portfólio para aprofundamento em Ciência de Dados e Estatística Aplicada à Saúde.*
