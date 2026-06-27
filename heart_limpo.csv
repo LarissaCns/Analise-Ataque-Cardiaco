@@ -1,0 +1,304 @@
+idade,sexo,tipo_dor_peito,pressao_arterial_repouso,colesterol,acucar_sangue_jejum,ecg_repouso,freq_cardiaca_max,angina_exercicio,depressao_st,inclinacao_st,num_vasos_principais,resultado_talio,risco_ataque_cardiaco,faixa_etaria
+63,Homem,Assintomático,145,233,1,0,150,0,2.3,0,0,1,Maior Risco,Mais de 60 anos
+37,Homem,Não Anginosa,130,250,0,1,187,0,3.5,0,0,2,Maior Risco,Até 40 anos
+41,Mulher,Angina Atípica,130,204,0,0,172,0,1.4,2,0,2,Maior Risco,41-50 anos
+56,Homem,Angina Atípica,120,236,0,1,178,0,0.8,2,0,2,Maior Risco,51-60 anos
+57,Mulher,Angina Típica,120,354,0,1,163,1,0.6,2,0,2,Maior Risco,51-60 anos
+57,Homem,Angina Típica,140,192,0,1,148,0,0.4,1,0,1,Maior Risco,51-60 anos
+56,Mulher,Angina Atípica,140,294,0,0,153,0,1.3,1,0,2,Maior Risco,51-60 anos
+44,Homem,Angina Atípica,120,263,0,1,173,0,0.0,2,0,3,Maior Risco,41-50 anos
+52,Homem,Não Anginosa,172,199,1,1,162,0,0.5,2,0,3,Maior Risco,51-60 anos
+57,Homem,Não Anginosa,150,168,0,1,174,0,1.6,2,0,2,Maior Risco,51-60 anos
+54,Homem,Angina Típica,140,239,0,1,160,0,1.2,2,0,2,Maior Risco,51-60 anos
+48,Mulher,Não Anginosa,130,275,0,1,139,0,0.2,2,0,2,Maior Risco,41-50 anos
+49,Homem,Angina Atípica,130,266,0,1,171,0,0.6,2,0,2,Maior Risco,41-50 anos
+64,Homem,Assintomático,110,211,0,0,144,1,1.8,1,0,2,Maior Risco,Mais de 60 anos
+58,Mulher,Assintomático,150,283,1,0,162,0,1.0,2,0,2,Maior Risco,51-60 anos
+50,Mulher,Não Anginosa,120,219,0,1,158,0,1.6,1,0,2,Maior Risco,41-50 anos
+58,Mulher,Não Anginosa,120,340,0,1,172,0,0.0,2,0,2,Maior Risco,51-60 anos
+66,Mulher,Assintomático,150,226,0,1,114,0,2.6,0,0,2,Maior Risco,Mais de 60 anos
+43,Homem,Angina Típica,150,247,0,1,171,0,1.5,2,0,2,Maior Risco,41-50 anos
+69,Mulher,Assintomático,140,239,0,1,151,0,1.8,2,2,2,Maior Risco,Mais de 60 anos
+59,Homem,Angina Típica,135,234,0,1,161,0,0.5,1,0,3,Maior Risco,51-60 anos
+44,Homem,Não Anginosa,130,233,0,1,179,1,0.4,2,0,2,Maior Risco,41-50 anos
+42,Homem,Angina Típica,140,226,0,1,178,0,0.0,2,0,2,Maior Risco,41-50 anos
+61,Homem,Não Anginosa,150,243,1,1,137,1,1.0,1,0,2,Maior Risco,Mais de 60 anos
+40,Homem,Assintomático,140,199,0,1,178,1,1.4,2,0,3,Maior Risco,Até 40 anos
+71,Mulher,Angina Atípica,160,302,0,1,162,0,0.4,2,2,2,Maior Risco,Mais de 60 anos
+59,Homem,Não Anginosa,150,212,1,1,157,0,1.6,2,0,2,Maior Risco,51-60 anos
+51,Homem,Não Anginosa,110,175,0,1,123,0,0.6,2,0,2,Maior Risco,51-60 anos
+65,Mulher,Não Anginosa,140,417,1,0,157,0,0.8,2,1,2,Maior Risco,Mais de 60 anos
+53,Homem,Não Anginosa,130,197,1,0,152,0,1.2,0,0,2,Maior Risco,51-60 anos
+41,Mulher,Angina Atípica,105,198,0,1,168,0,0.0,2,1,2,Maior Risco,41-50 anos
+65,Homem,Angina Típica,120,177,0,1,140,0,0.4,2,0,3,Maior Risco,Mais de 60 anos
+44,Homem,Angina Atípica,130,219,0,0,188,0,0.0,2,0,2,Maior Risco,41-50 anos
+54,Homem,Não Anginosa,125,273,0,0,152,0,0.5,0,1,2,Maior Risco,51-60 anos
+51,Homem,Assintomático,125,213,0,0,125,1,1.4,2,1,2,Maior Risco,51-60 anos
+46,Mulher,Não Anginosa,142,177,0,0,160,1,1.4,0,0,2,Maior Risco,41-50 anos
+54,Mulher,Não Anginosa,135,304,1,1,170,0,0.0,2,0,2,Maior Risco,51-60 anos
+54,Homem,Não Anginosa,150,232,0,0,165,0,1.6,2,0,3,Maior Risco,51-60 anos
+65,Mulher,Não Anginosa,155,269,0,1,148,0,0.8,2,0,2,Maior Risco,Mais de 60 anos
+65,Mulher,Não Anginosa,160,360,0,0,151,0,0.8,2,0,2,Maior Risco,Mais de 60 anos
+51,Mulher,Não Anginosa,140,308,0,0,142,0,1.5,2,1,2,Maior Risco,51-60 anos
+48,Homem,Angina Atípica,130,245,0,0,180,0,0.2,1,0,2,Maior Risco,41-50 anos
+45,Homem,Angina Típica,104,208,0,0,148,1,3.0,1,0,2,Maior Risco,41-50 anos
+53,Mulher,Angina Típica,130,264,0,0,143,0,0.4,1,0,2,Maior Risco,51-60 anos
+39,Homem,Não Anginosa,140,321,0,0,182,0,0.0,2,0,2,Maior Risco,Até 40 anos
+52,Homem,Angina Atípica,120,325,0,1,172,0,0.2,2,0,2,Maior Risco,51-60 anos
+44,Homem,Não Anginosa,140,235,0,0,180,0,0.0,2,0,2,Maior Risco,41-50 anos
+47,Homem,Não Anginosa,138,257,0,0,156,0,0.0,2,0,2,Maior Risco,41-50 anos
+53,Mulher,Não Anginosa,128,216,0,0,115,0,0.0,2,0,0,Maior Risco,51-60 anos
+53,Mulher,Angina Típica,138,234,0,0,160,0,0.0,2,0,2,Maior Risco,51-60 anos
+51,Mulher,Não Anginosa,130,256,0,0,149,0,0.5,2,0,2,Maior Risco,51-60 anos
+66,Homem,Angina Típica,120,302,0,0,151,0,0.4,1,0,2,Maior Risco,Mais de 60 anos
+62,Homem,Não Anginosa,130,231,0,1,146,0,1.8,1,3,3,Maior Risco,Mais de 60 anos
+44,Mulher,Não Anginosa,108,141,0,1,175,0,0.6,1,0,2,Maior Risco,41-50 anos
+63,Mulher,Não Anginosa,135,252,0,0,172,0,0.0,2,0,2,Maior Risco,Mais de 60 anos
+52,Homem,Angina Atípica,134,201,0,1,158,0,0.8,2,1,2,Maior Risco,51-60 anos
+48,Homem,Angina Típica,122,222,0,0,186,0,0.0,2,0,2,Maior Risco,41-50 anos
+45,Homem,Angina Típica,115,260,0,0,185,0,0.0,2,0,2,Maior Risco,41-50 anos
+34,Homem,Assintomático,118,182,0,0,174,0,0.0,2,0,2,Maior Risco,Até 40 anos
+57,Mulher,Angina Típica,128,303,0,0,159,0,0.0,2,1,2,Maior Risco,51-60 anos
+71,Mulher,Não Anginosa,110,265,1,0,130,0,0.0,2,1,2,Maior Risco,Mais de 60 anos
+54,Homem,Angina Atípica,108,309,0,1,156,0,0.0,2,0,3,Maior Risco,51-60 anos
+52,Homem,Assintomático,118,186,0,0,190,0,0.0,1,0,1,Maior Risco,51-60 anos
+41,Homem,Angina Atípica,135,203,0,1,132,0,0.0,1,0,1,Maior Risco,41-50 anos
+58,Homem,Não Anginosa,140,211,1,0,165,0,0.0,2,0,2,Maior Risco,51-60 anos
+35,Mulher,Angina Típica,138,183,0,1,182,0,1.4,2,0,2,Maior Risco,Até 40 anos
+51,Homem,Não Anginosa,100,222,0,1,143,1,1.2,1,0,2,Maior Risco,51-60 anos
+45,Mulher,Angina Atípica,130,234,0,0,175,0,0.6,1,0,2,Maior Risco,41-50 anos
+44,Homem,Angina Atípica,120,220,0,1,170,0,0.0,2,0,2,Maior Risco,41-50 anos
+62,Mulher,Angina Típica,124,209,0,1,163,0,0.0,2,0,2,Maior Risco,Mais de 60 anos
+54,Homem,Não Anginosa,120,258,0,0,147,0,0.4,1,0,3,Maior Risco,51-60 anos
+51,Homem,Não Anginosa,94,227,0,1,154,1,0.0,2,1,3,Maior Risco,51-60 anos
+29,Homem,Angina Atípica,130,204,0,0,202,0,0.0,2,0,2,Maior Risco,Até 40 anos
+51,Homem,Angina Típica,140,261,0,0,186,1,0.0,2,0,2,Maior Risco,51-60 anos
+43,Mulher,Não Anginosa,122,213,0,1,165,0,0.2,1,0,2,Maior Risco,41-50 anos
+55,Mulher,Angina Atípica,135,250,0,0,161,0,1.4,1,0,2,Maior Risco,51-60 anos
+51,Homem,Não Anginosa,125,245,1,0,166,0,2.4,1,0,2,Maior Risco,51-60 anos
+59,Homem,Angina Atípica,140,221,0,1,164,1,0.0,2,0,2,Maior Risco,51-60 anos
+52,Homem,Angina Atípica,128,205,1,1,184,0,0.0,2,0,2,Maior Risco,51-60 anos
+58,Homem,Não Anginosa,105,240,0,0,154,1,0.6,1,0,3,Maior Risco,51-60 anos
+41,Homem,Não Anginosa,112,250,0,1,179,0,0.0,2,0,2,Maior Risco,41-50 anos
+45,Homem,Angina Atípica,128,308,0,0,170,0,0.0,2,0,2,Maior Risco,41-50 anos
+60,Mulher,Não Anginosa,102,318,0,1,160,0,0.0,2,1,2,Maior Risco,51-60 anos
+52,Homem,Assintomático,152,298,1,1,178,0,1.2,1,0,3,Maior Risco,51-60 anos
+42,Mulher,Angina Típica,102,265,0,0,122,0,0.6,1,0,2,Maior Risco,41-50 anos
+67,Mulher,Não Anginosa,115,564,0,0,160,0,1.6,1,0,3,Maior Risco,Mais de 60 anos
+68,Homem,Não Anginosa,118,277,0,1,151,0,1.0,2,1,3,Maior Risco,Mais de 60 anos
+46,Homem,Angina Atípica,101,197,1,1,156,0,0.0,2,0,3,Maior Risco,41-50 anos
+54,Mulher,Não Anginosa,110,214,0,1,158,0,1.6,1,0,2,Maior Risco,51-60 anos
+58,Mulher,Angina Típica,100,248,0,0,122,0,1.0,1,0,2,Maior Risco,51-60 anos
+48,Homem,Não Anginosa,124,255,1,1,175,0,0.0,2,2,2,Maior Risco,41-50 anos
+57,Homem,Angina Típica,132,207,0,1,168,1,0.0,2,0,3,Maior Risco,51-60 anos
+52,Homem,Não Anginosa,138,223,0,1,169,0,0.0,2,4,2,Maior Risco,51-60 anos
+54,Mulher,Angina Atípica,132,288,1,0,159,1,0.0,2,1,2,Maior Risco,51-60 anos
+45,Mulher,Angina Atípica,112,160,0,1,138,0,0.0,1,0,2,Maior Risco,41-50 anos
+53,Homem,Angina Típica,142,226,0,0,111,1,0.0,2,0,3,Maior Risco,51-60 anos
+62,Mulher,Angina Típica,140,394,0,0,157,0,1.2,1,0,2,Maior Risco,Mais de 60 anos
+52,Homem,Angina Típica,108,233,1,1,147,0,0.1,2,3,3,Maior Risco,51-60 anos
+43,Homem,Não Anginosa,130,315,0,1,162,0,1.9,2,1,2,Maior Risco,41-50 anos
+53,Homem,Não Anginosa,130,246,1,0,173,0,0.0,2,3,2,Maior Risco,51-60 anos
+42,Homem,Assintomático,148,244,0,0,178,0,0.8,2,2,2,Maior Risco,41-50 anos
+59,Homem,Assintomático,178,270,0,0,145,0,4.2,0,0,3,Maior Risco,51-60 anos
+63,Mulher,Angina Atípica,140,195,0,1,179,0,0.0,2,2,2,Maior Risco,Mais de 60 anos
+42,Homem,Não Anginosa,120,240,1,1,194,0,0.8,0,0,3,Maior Risco,41-50 anos
+50,Homem,Não Anginosa,129,196,0,1,163,0,0.0,2,0,2,Maior Risco,41-50 anos
+68,Mulher,Não Anginosa,120,211,0,0,115,0,1.5,1,0,2,Maior Risco,Mais de 60 anos
+69,Homem,Assintomático,160,234,1,0,131,0,0.1,1,1,2,Maior Risco,Mais de 60 anos
+45,Mulher,Angina Típica,138,236,0,0,152,1,0.2,1,0,2,Maior Risco,41-50 anos
+50,Mulher,Angina Atípica,120,244,0,1,162,0,1.1,2,0,2,Maior Risco,41-50 anos
+50,Mulher,Angina Típica,110,254,0,0,159,0,0.0,2,0,2,Maior Risco,41-50 anos
+64,Mulher,Angina Típica,180,325,0,1,154,1,0.0,2,0,2,Maior Risco,Mais de 60 anos
+57,Homem,Não Anginosa,150,126,1,1,173,0,0.2,2,1,3,Maior Risco,51-60 anos
+64,Mulher,Não Anginosa,140,313,0,1,133,0,0.2,2,0,3,Maior Risco,Mais de 60 anos
+43,Homem,Angina Típica,110,211,0,1,161,0,0.0,2,0,3,Maior Risco,41-50 anos
+55,Homem,Angina Atípica,130,262,0,1,155,0,0.0,2,0,2,Maior Risco,51-60 anos
+37,Mulher,Não Anginosa,120,215,0,1,170,0,0.0,2,0,2,Maior Risco,Até 40 anos
+41,Homem,Não Anginosa,130,214,0,0,168,0,2.0,1,0,2,Maior Risco,41-50 anos
+56,Homem,Assintomático,120,193,0,0,162,0,1.9,1,0,3,Maior Risco,51-60 anos
+46,Mulher,Angina Atípica,105,204,0,1,172,0,0.0,2,0,2,Maior Risco,41-50 anos
+46,Mulher,Angina Típica,138,243,0,0,152,1,0.0,1,0,2,Maior Risco,41-50 anos
+64,Mulher,Angina Típica,130,303,0,1,122,0,2.0,1,2,2,Maior Risco,Mais de 60 anos
+59,Homem,Angina Típica,138,271,0,0,182,0,0.0,2,0,2,Maior Risco,51-60 anos
+41,Mulher,Não Anginosa,112,268,0,0,172,1,0.0,2,0,2,Maior Risco,41-50 anos
+54,Mulher,Não Anginosa,108,267,0,0,167,0,0.0,2,0,2,Maior Risco,51-60 anos
+39,Mulher,Não Anginosa,94,199,0,1,179,0,0.0,2,0,2,Maior Risco,Até 40 anos
+34,Mulher,Angina Atípica,118,210,0,1,192,0,0.7,2,0,2,Maior Risco,Até 40 anos
+47,Homem,Angina Típica,112,204,0,1,143,0,0.1,2,0,2,Maior Risco,41-50 anos
+67,Mulher,Não Anginosa,152,277,0,1,172,0,0.0,2,1,2,Maior Risco,Mais de 60 anos
+52,Mulher,Não Anginosa,136,196,0,0,169,0,0.1,1,0,2,Maior Risco,51-60 anos
+74,Mulher,Angina Atípica,120,269,0,0,121,1,0.2,2,1,2,Maior Risco,Mais de 60 anos
+54,Mulher,Não Anginosa,160,201,0,1,163,0,0.0,2,1,2,Maior Risco,51-60 anos
+49,Mulher,Angina Atípica,134,271,0,1,162,0,0.0,1,0,2,Maior Risco,41-50 anos
+42,Homem,Angina Atípica,120,295,0,1,162,0,0.0,2,0,2,Maior Risco,41-50 anos
+41,Homem,Angina Atípica,110,235,0,1,153,0,0.0,2,0,2,Maior Risco,41-50 anos
+41,Mulher,Angina Atípica,126,306,0,1,163,0,0.0,2,0,2,Maior Risco,41-50 anos
+49,Mulher,Angina Típica,130,269,0,1,163,0,0.0,2,0,2,Maior Risco,41-50 anos
+60,Mulher,Não Anginosa,120,178,1,1,96,0,0.0,2,0,2,Maior Risco,51-60 anos
+62,Homem,Angina Atípica,128,208,1,0,140,0,0.0,2,0,2,Maior Risco,Mais de 60 anos
+57,Homem,Angina Típica,110,201,0,1,126,1,1.5,1,0,1,Maior Risco,51-60 anos
+64,Homem,Angina Típica,128,263,0,1,105,1,0.2,1,1,3,Maior Risco,Mais de 60 anos
+51,Mulher,Não Anginosa,120,295,0,0,157,0,0.6,2,0,2,Maior Risco,51-60 anos
+43,Homem,Angina Típica,115,303,0,1,181,0,1.2,1,0,2,Maior Risco,41-50 anos
+42,Mulher,Não Anginosa,120,209,0,1,173,0,0.0,1,0,2,Maior Risco,41-50 anos
+67,Mulher,Angina Típica,106,223,0,1,142,0,0.3,2,2,2,Maior Risco,Mais de 60 anos
+76,Mulher,Não Anginosa,140,197,0,2,116,0,1.1,1,0,2,Maior Risco,Mais de 60 anos
+70,Homem,Angina Atípica,156,245,0,0,143,0,0.0,2,0,2,Maior Risco,Mais de 60 anos
+44,Mulher,Não Anginosa,118,242,0,1,149,0,0.3,1,1,2,Maior Risco,41-50 anos
+60,Mulher,Assintomático,150,240,0,1,171,0,0.9,2,0,2,Maior Risco,51-60 anos
+44,Homem,Não Anginosa,120,226,0,1,169,0,0.0,2,0,2,Maior Risco,41-50 anos
+42,Homem,Não Anginosa,130,180,0,1,150,0,0.0,2,0,2,Maior Risco,41-50 anos
+66,Homem,Angina Típica,160,228,0,0,138,0,2.3,2,0,1,Maior Risco,Mais de 60 anos
+71,Mulher,Angina Típica,112,149,0,1,125,0,1.6,1,0,2,Maior Risco,Mais de 60 anos
+64,Homem,Assintomático,170,227,0,0,155,0,0.6,1,0,3,Maior Risco,Mais de 60 anos
+66,Mulher,Não Anginosa,146,278,0,0,152,0,0.0,1,1,2,Maior Risco,Mais de 60 anos
+39,Mulher,Não Anginosa,138,220,0,1,152,0,0.0,1,0,2,Maior Risco,Até 40 anos
+58,Mulher,Angina Típica,130,197,0,1,131,0,0.6,1,0,2,Maior Risco,51-60 anos
+47,Homem,Não Anginosa,130,253,0,1,179,0,0.0,2,0,2,Maior Risco,41-50 anos
+35,Homem,Angina Atípica,122,192,0,1,174,0,0.0,2,0,2,Maior Risco,Até 40 anos
+58,Homem,Angina Atípica,125,220,0,1,144,0,0.4,1,4,3,Maior Risco,51-60 anos
+56,Homem,Angina Atípica,130,221,0,0,163,0,0.0,2,0,3,Maior Risco,51-60 anos
+56,Homem,Angina Atípica,120,240,0,1,169,0,0.0,0,0,2,Maior Risco,51-60 anos
+55,Mulher,Angina Atípica,132,342,0,1,166,0,1.2,2,0,2,Maior Risco,51-60 anos
+41,Homem,Angina Atípica,120,157,0,1,182,0,0.0,2,0,2,Maior Risco,41-50 anos
+38,Homem,Não Anginosa,138,175,0,1,173,0,0.0,2,4,2,Maior Risco,Até 40 anos
+38,Homem,Não Anginosa,138,175,0,1,173,0,0.0,2,4,2,Maior Risco,Até 40 anos
+67,Homem,Angina Típica,160,286,0,0,108,1,1.5,1,3,2,Menor Risco,Mais de 60 anos
+67,Homem,Angina Típica,120,229,0,0,129,1,2.6,1,2,3,Menor Risco,Mais de 60 anos
+62,Mulher,Angina Típica,140,268,0,0,160,0,3.6,0,2,2,Menor Risco,Mais de 60 anos
+63,Homem,Angina Típica,130,254,0,0,147,0,1.4,1,1,3,Menor Risco,Mais de 60 anos
+53,Homem,Angina Típica,140,203,1,0,155,1,3.1,0,0,3,Menor Risco,51-60 anos
+56,Homem,Não Anginosa,130,256,1,0,142,1,0.6,1,1,1,Menor Risco,51-60 anos
+48,Homem,Angina Atípica,110,229,0,1,168,0,1.0,0,0,3,Menor Risco,41-50 anos
+58,Homem,Angina Atípica,120,284,0,0,160,0,1.8,1,0,2,Menor Risco,51-60 anos
+58,Homem,Não Anginosa,132,224,0,0,173,0,3.2,2,2,3,Menor Risco,51-60 anos
+60,Homem,Angina Típica,130,206,0,0,132,1,2.4,1,2,3,Menor Risco,51-60 anos
+40,Homem,Angina Típica,110,167,0,0,114,1,2.0,1,0,3,Menor Risco,Até 40 anos
+60,Homem,Angina Típica,117,230,1,1,160,1,1.4,2,2,3,Menor Risco,51-60 anos
+64,Homem,Não Anginosa,140,335,0,1,158,0,0.0,2,0,2,Menor Risco,Mais de 60 anos
+43,Homem,Angina Típica,120,177,0,0,120,1,2.5,1,0,3,Menor Risco,41-50 anos
+57,Homem,Angina Típica,150,276,0,0,112,1,0.6,1,1,1,Menor Risco,51-60 anos
+55,Homem,Angina Típica,132,353,0,1,132,1,1.2,1,1,3,Menor Risco,51-60 anos
+65,Mulher,Angina Típica,150,225,0,0,114,0,1.0,1,3,3,Menor Risco,Mais de 60 anos
+61,Mulher,Angina Típica,130,330,0,0,169,0,0.0,2,0,2,Menor Risco,Mais de 60 anos
+58,Homem,Não Anginosa,112,230,0,0,165,0,2.5,1,1,3,Menor Risco,51-60 anos
+50,Homem,Angina Típica,150,243,0,0,128,0,2.6,1,0,3,Menor Risco,41-50 anos
+44,Homem,Angina Típica,112,290,0,0,153,0,0.0,2,1,2,Menor Risco,41-50 anos
+60,Homem,Angina Típica,130,253,0,1,144,1,1.4,2,1,3,Menor Risco,51-60 anos
+54,Homem,Angina Típica,124,266,0,0,109,1,2.2,1,1,3,Menor Risco,51-60 anos
+50,Homem,Não Anginosa,140,233,0,1,163,0,0.6,1,1,3,Menor Risco,41-50 anos
+41,Homem,Angina Típica,110,172,0,0,158,0,0.0,2,0,3,Menor Risco,41-50 anos
+51,Mulher,Angina Típica,130,305,0,1,142,1,1.2,1,0,3,Menor Risco,51-60 anos
+58,Homem,Angina Típica,128,216,0,0,131,1,2.2,1,3,3,Menor Risco,51-60 anos
+54,Homem,Angina Típica,120,188,0,1,113,0,1.4,1,1,3,Menor Risco,51-60 anos
+60,Homem,Angina Típica,145,282,0,0,142,1,2.8,1,2,3,Menor Risco,51-60 anos
+60,Homem,Não Anginosa,140,185,0,0,155,0,3.0,1,0,2,Menor Risco,51-60 anos
+59,Homem,Angina Típica,170,326,0,0,140,1,3.4,0,0,3,Menor Risco,51-60 anos
+46,Homem,Não Anginosa,150,231,0,1,147,0,3.6,1,0,2,Menor Risco,41-50 anos
+67,Homem,Angina Típica,125,254,1,1,163,0,0.2,1,2,3,Menor Risco,Mais de 60 anos
+62,Homem,Angina Típica,120,267,0,1,99,1,1.8,1,2,3,Menor Risco,Mais de 60 anos
+65,Homem,Angina Típica,110,248,0,0,158,0,0.6,2,2,1,Menor Risco,Mais de 60 anos
+44,Homem,Angina Típica,110,197,0,0,177,0,0.0,2,1,2,Menor Risco,41-50 anos
+60,Homem,Angina Típica,125,258,0,0,141,1,2.8,1,1,3,Menor Risco,51-60 anos
+58,Homem,Angina Típica,150,270,0,0,111,1,0.8,2,0,3,Menor Risco,51-60 anos
+68,Homem,Não Anginosa,180,274,1,0,150,1,1.6,1,0,3,Menor Risco,Mais de 60 anos
+62,Mulher,Angina Típica,160,164,0,0,145,0,6.2,0,3,3,Menor Risco,Mais de 60 anos
+52,Homem,Angina Típica,128,255,0,1,161,1,0.0,2,1,3,Menor Risco,51-60 anos
+59,Homem,Angina Típica,110,239,0,0,142,1,1.2,1,1,3,Menor Risco,51-60 anos
+60,Mulher,Angina Típica,150,258,0,0,157,0,2.6,1,2,3,Menor Risco,51-60 anos
+49,Homem,Não Anginosa,120,188,0,1,139,0,2.0,1,3,3,Menor Risco,41-50 anos
+59,Homem,Angina Típica,140,177,0,1,162,1,0.0,2,1,3,Menor Risco,51-60 anos
+57,Homem,Não Anginosa,128,229,0,0,150,0,0.4,1,1,3,Menor Risco,51-60 anos
+61,Homem,Angina Típica,120,260,0,1,140,1,3.6,1,1,3,Menor Risco,Mais de 60 anos
+39,Homem,Angina Típica,118,219,0,1,140,0,1.2,1,0,3,Menor Risco,Até 40 anos
+61,Mulher,Angina Típica,145,307,0,0,146,1,1.0,1,0,3,Menor Risco,Mais de 60 anos
+56,Homem,Angina Típica,125,249,1,0,144,1,1.2,1,1,2,Menor Risco,51-60 anos
+43,Mulher,Angina Típica,132,341,1,0,136,1,3.0,1,0,3,Menor Risco,41-50 anos
+62,Mulher,Não Anginosa,130,263,0,1,97,0,1.2,1,1,3,Menor Risco,Mais de 60 anos
+63,Homem,Angina Típica,130,330,1,0,132,1,1.8,2,3,3,Menor Risco,Mais de 60 anos
+65,Homem,Angina Típica,135,254,0,0,127,0,2.8,1,1,3,Menor Risco,Mais de 60 anos
+48,Homem,Angina Típica,130,256,1,0,150,1,0.0,2,2,3,Menor Risco,41-50 anos
+63,Mulher,Angina Típica,150,407,0,0,154,0,4.0,1,3,3,Menor Risco,Mais de 60 anos
+55,Homem,Angina Típica,140,217,0,1,111,1,5.6,0,0,3,Menor Risco,51-60 anos
+65,Homem,Assintomático,138,282,1,0,174,0,1.4,1,1,2,Menor Risco,Mais de 60 anos
+56,Mulher,Angina Típica,200,288,1,0,133,1,4.0,0,2,3,Menor Risco,51-60 anos
+54,Homem,Angina Típica,110,239,0,1,126,1,2.8,1,1,3,Menor Risco,51-60 anos
+70,Homem,Angina Típica,145,174,0,1,125,1,2.6,0,0,3,Menor Risco,Mais de 60 anos
+62,Homem,Angina Atípica,120,281,0,0,103,0,1.4,1,1,3,Menor Risco,Mais de 60 anos
+35,Homem,Angina Típica,120,198,0,1,130,1,1.6,1,0,3,Menor Risco,Até 40 anos
+59,Homem,Assintomático,170,288,0,0,159,0,0.2,1,0,3,Menor Risco,51-60 anos
+64,Homem,Não Anginosa,125,309,0,1,131,1,1.8,1,0,3,Menor Risco,Mais de 60 anos
+47,Homem,Não Anginosa,108,243,0,1,152,0,0.0,2,0,2,Menor Risco,41-50 anos
+57,Homem,Angina Típica,165,289,1,0,124,0,1.0,1,3,3,Menor Risco,51-60 anos
+55,Homem,Angina Típica,160,289,0,0,145,1,0.8,1,1,3,Menor Risco,51-60 anos
+64,Homem,Angina Típica,120,246,0,0,96,1,2.2,0,1,2,Menor Risco,Mais de 60 anos
+70,Homem,Angina Típica,130,322,0,0,109,0,2.4,1,3,2,Menor Risco,Mais de 60 anos
+51,Homem,Angina Típica,140,299,0,1,173,1,1.6,2,0,3,Menor Risco,51-60 anos
+58,Homem,Angina Típica,125,300,0,0,171,0,0.0,2,2,3,Menor Risco,51-60 anos
+60,Homem,Angina Típica,140,293,0,0,170,0,1.2,1,2,3,Menor Risco,51-60 anos
+77,Homem,Angina Típica,125,304,0,0,162,1,0.0,2,3,2,Menor Risco,Mais de 60 anos
+35,Homem,Angina Típica,126,282,0,0,156,1,0.0,2,0,3,Menor Risco,Até 40 anos
+70,Homem,Não Anginosa,160,269,0,1,112,1,2.9,1,1,3,Menor Risco,Mais de 60 anos
+59,Mulher,Angina Típica,174,249,0,1,143,1,0.0,1,0,2,Menor Risco,51-60 anos
+64,Homem,Angina Típica,145,212,0,0,132,0,2.0,1,2,1,Menor Risco,Mais de 60 anos
+57,Homem,Angina Típica,152,274,0,1,88,1,1.2,1,1,3,Menor Risco,51-60 anos
+56,Homem,Angina Típica,132,184,0,0,105,1,2.1,1,1,1,Menor Risco,51-60 anos
+48,Homem,Angina Típica,124,274,0,0,166,0,0.5,1,0,3,Menor Risco,41-50 anos
+56,Mulher,Angina Típica,134,409,0,0,150,1,1.9,1,2,3,Menor Risco,51-60 anos
+66,Homem,Angina Atípica,160,246,0,1,120,1,0.0,1,3,1,Menor Risco,Mais de 60 anos
+54,Homem,Angina Atípica,192,283,0,0,195,0,0.0,2,1,3,Menor Risco,51-60 anos
+69,Homem,Não Anginosa,140,254,0,0,146,0,2.0,1,3,3,Menor Risco,Mais de 60 anos
+51,Homem,Angina Típica,140,298,0,1,122,1,4.2,1,3,3,Menor Risco,51-60 anos
+43,Homem,Angina Típica,132,247,1,0,143,1,0.1,1,4,3,Menor Risco,41-50 anos
+62,Mulher,Angina Típica,138,294,1,1,106,0,1.9,1,3,2,Menor Risco,Mais de 60 anos
+67,Homem,Angina Típica,100,299,0,0,125,1,0.9,1,2,2,Menor Risco,Mais de 60 anos
+59,Homem,Assintomático,160,273,0,0,125,0,0.0,2,0,2,Menor Risco,51-60 anos
+45,Homem,Angina Típica,142,309,0,0,147,1,0.0,1,3,3,Menor Risco,41-50 anos
+58,Homem,Angina Típica,128,259,0,0,130,1,3.0,1,2,3,Menor Risco,51-60 anos
+50,Homem,Angina Típica,144,200,0,0,126,1,0.9,1,0,3,Menor Risco,41-50 anos
+62,Mulher,Angina Típica,150,244,0,1,154,1,1.4,1,0,2,Menor Risco,Mais de 60 anos
+38,Homem,Assintomático,120,231,0,1,182,1,3.8,1,0,3,Menor Risco,Até 40 anos
+66,Mulher,Angina Típica,178,228,1,1,165,1,1.0,1,2,3,Menor Risco,Mais de 60 anos
+52,Homem,Angina Típica,112,230,0,1,160,0,0.0,2,1,2,Menor Risco,51-60 anos
+53,Homem,Angina Típica,123,282,0,1,95,1,2.0,1,2,3,Menor Risco,51-60 anos
+63,Mulher,Angina Típica,108,269,0,1,169,1,1.8,1,2,2,Menor Risco,Mais de 60 anos
+54,Homem,Angina Típica,110,206,0,0,108,1,0.0,1,1,2,Menor Risco,51-60 anos
+66,Homem,Angina Típica,112,212,0,0,132,1,0.1,2,1,2,Menor Risco,Mais de 60 anos
+55,Mulher,Angina Típica,180,327,0,2,117,1,3.4,1,0,2,Menor Risco,51-60 anos
+49,Homem,Não Anginosa,118,149,0,0,126,0,0.8,2,3,2,Menor Risco,41-50 anos
+54,Homem,Angina Típica,122,286,0,0,116,1,3.2,1,2,2,Menor Risco,51-60 anos
+56,Homem,Angina Típica,130,283,1,0,103,1,1.6,0,0,3,Menor Risco,51-60 anos
+46,Homem,Angina Típica,120,249,0,0,144,0,0.8,2,0,3,Menor Risco,41-50 anos
+61,Homem,Assintomático,134,234,0,1,145,0,2.6,1,2,2,Menor Risco,Mais de 60 anos
+67,Homem,Angina Típica,120,237,0,1,71,0,1.0,1,0,2,Menor Risco,Mais de 60 anos
+58,Homem,Angina Típica,100,234,0,1,156,0,0.1,2,1,3,Menor Risco,51-60 anos
+47,Homem,Angina Típica,110,275,0,0,118,1,1.0,1,1,2,Menor Risco,41-50 anos
+52,Homem,Angina Típica,125,212,0,1,168,0,1.0,2,2,3,Menor Risco,51-60 anos
+58,Homem,Angina Típica,146,218,0,1,105,0,2.0,1,1,3,Menor Risco,51-60 anos
+57,Homem,Angina Atípica,124,261,0,1,141,0,0.3,2,0,3,Menor Risco,51-60 anos
+58,Mulher,Angina Atípica,136,319,1,0,152,0,0.0,2,2,2,Menor Risco,51-60 anos
+61,Homem,Angina Típica,138,166,0,0,125,1,3.6,1,1,2,Menor Risco,Mais de 60 anos
+42,Homem,Angina Típica,136,315,0,1,125,1,1.8,1,0,1,Menor Risco,41-50 anos
+52,Homem,Angina Típica,128,204,1,1,156,1,1.0,1,0,0,Menor Risco,51-60 anos
+59,Homem,Não Anginosa,126,218,1,1,134,0,2.2,1,1,1,Menor Risco,51-60 anos
+40,Homem,Angina Típica,152,223,0,1,181,0,0.0,2,0,3,Menor Risco,Até 40 anos
+61,Homem,Angina Típica,140,207,0,0,138,1,1.9,2,1,3,Menor Risco,Mais de 60 anos
+46,Homem,Angina Típica,140,311,0,1,120,1,1.8,1,2,3,Menor Risco,41-50 anos
+59,Homem,Assintomático,134,204,0,1,162,0,0.8,2,2,2,Menor Risco,51-60 anos
+57,Homem,Angina Atípica,154,232,0,0,164,0,0.0,2,1,2,Menor Risco,51-60 anos
+57,Homem,Angina Típica,110,335,0,1,143,1,3.0,1,1,3,Menor Risco,51-60 anos
+55,Mulher,Angina Típica,128,205,0,2,130,1,2.0,1,1,3,Menor Risco,51-60 anos
+61,Homem,Angina Típica,148,203,0,1,161,0,0.0,2,1,3,Menor Risco,Mais de 60 anos
+58,Homem,Angina Típica,114,318,0,2,140,0,4.4,0,3,1,Menor Risco,51-60 anos
+58,Mulher,Angina Típica,170,225,1,0,146,1,2.8,1,2,1,Menor Risco,51-60 anos
+67,Homem,Não Anginosa,152,212,0,0,150,0,0.8,1,0,3,Menor Risco,Mais de 60 anos
+44,Homem,Angina Típica,120,169,0,1,144,1,2.8,0,0,1,Menor Risco,41-50 anos
+63,Homem,Angina Típica,140,187,0,0,144,1,4.0,2,2,3,Menor Risco,Mais de 60 anos
+63,Mulher,Angina Típica,124,197,0,1,136,1,0.0,1,0,2,Menor Risco,Mais de 60 anos
+59,Homem,Angina Típica,164,176,1,0,90,0,1.0,1,2,1,Menor Risco,51-60 anos
+57,Mulher,Angina Típica,140,241,0,1,123,1,0.2,1,0,3,Menor Risco,51-60 anos
+45,Homem,Assintomático,110,264,0,1,132,0,1.2,1,0,3,Menor Risco,41-50 anos
+68,Homem,Angina Típica,144,193,1,1,141,0,3.4,1,2,3,Menor Risco,Mais de 60 anos
+57,Homem,Angina Típica,130,131,0,1,115,1,1.2,1,1,3,Menor Risco,51-60 anos
+57,Mulher,Angina Atípica,130,236,0,0,174,0,0.0,1,1,2,Menor Risco,51-60 anos
