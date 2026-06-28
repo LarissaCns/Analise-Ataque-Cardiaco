@@ -23,7 +23,9 @@ Este projeto realiza uma Análise Exploratória de Dados (EDA) detalhada sobre u
 * **A Matemática dos Sinais Vitais:** O Mapa de Calor confirmou a correlação negativa esperada pela biologia humana entre a idade e a frequência cardíaca máxima (-0.40).
 * **A (Falta de) Influência Isolada do Colesterol:** O cruzamento estatístico e visual (Boxplot) revelou uma correlação praticamente nula (-0.09) entre os níveis de colesterol sérico e o risco de infarto. As medianas e a distribuição interquartil foram visualmente sobreponíveis entre os grupos de maior e menor risco, indicando que o colesterol, isoladamente, não foi um preditor linear forte para esta amostra clínica.
 
-<img width="400" alt="__results___44_1" src="https://github.com/user-attachments/assets/9a0fea9b-067b-413a-b47f-f6dee2e9b014" align="center"/>
+<div align="center">
+  <img width="400" alt="__results___44_1" src="https://github.com/user-attachments/assets/9a0fea9b-067b-413a-b47f-f6dee2e9b014"/>
+</div>
 
 ## 📂 Estrutura do Repositório
 * `analise-ataques-cardiacos.ipynb`: Código completo contendo a etapa de formatação, agrupamentos e geração de todos os gráficos.
